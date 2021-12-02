@@ -22,10 +22,10 @@ export default function Home() {
         {/* margin: 1rem; padding: 1.5rem; text-align: left; color: inherit;
         text-decoration: none; border: 1px solid #eaeaea; border-radius: 10px;
         transition: color 0.15s ease, border-color 0.15s ease; max-width: 300px; */}
-        <div className="flex items-center justify-center flex-wrap max-w-3xl flex-col md:flex-unset">
+        <div className="flex items-center justify-center flex-wrap max-w-3xl md:flex-unset">
           <a
             href="https://nextjs.org/docs"
-            className="p-6 m-4 text-left no-underline border rounded-md transition-colors ease-in-out duration-700 max-w-xs hover:text-indigo-500 hover:border-indigo-500"
+            className="p-6 m-4 text-left no-underline border rounded-md transition-colors ease-in-out duration-700 max-w-xs hover:text-indigo-500 hover:border-indigo-500 min-h-[200px]"
           >
             <h2 className="text-2xl mb-8">Documentation &rarr;</h2>
             <p className="m-0 text-xl">
@@ -35,7 +35,7 @@ export default function Home() {
 
           <a
             href="https://nextjs.org/learn"
-            className="p-6 m-4 text-left no-underline border rounded-md transition-colors ease-in-out duration-700 max-w-xs hover:text-indigo-500 hover:border-indigo-500"
+            className="p-6 m-4 text-left no-underline border rounded-md transition-colors ease-in-out duration-700 max-w-xs hover:text-indigo-500 hover:border-indigo-500 min-h-[200px]"
           >
             <h2 className="text-2xl mb-8">Learn &rarr;</h2>
             <p className="m-0 text-xl">
@@ -45,7 +45,7 @@ export default function Home() {
 
           <a
             href="https://github.com/vercel/next.js/tree/master/examples"
-            className="p-6 m-4 text-left no-underline border rounded-md transition-colors ease-in-out duration-700 max-w-xs hover:text-indigo-500 hover:border-indigo-500"
+            className="p-6 m-4 text-left no-underline border rounded-md transition-colors ease-in-out duration-700 max-w-xs hover:text-indigo-500 hover:border-indigo-500 min-h-[200px]"
           >
             <h2 className="text-2xl mb-8">Examples &rarr;</h2>
             <p className="m-0 text-xl">
@@ -55,7 +55,7 @@ export default function Home() {
 
           <a
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className="p-6 m-4 text-left no-underline border rounded-md transition-colors ease-in-out duration-700 max-w-xs hover:text-indigo-500 hover:border-indigo-500"
+            className="p-6 m-4 text-left no-underline border rounded-md transition-colors ease-in-out duration-700 max-w-xs hover:text-indigo-500 hover:border-indigo-500 min-h-[200px]"
           >
             <h2 className="text-2xl mb-8">Deploy &rarr;</h2>
             <p className="m-0 text-xl">
