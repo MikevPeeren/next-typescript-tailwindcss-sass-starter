@@ -2,10 +2,6 @@
 
 Use TypeScript, TailwindCSS & Sass to quick start your new Next.js app!!
 
-## ⚡️ Quick Start
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/project?template=https://github.com/MikevPeeren/next-typescript-tailwindcss-sass-starter)
-
 ## 🧐 What's inside?
 
 This Starter includes
@@ -21,6 +17,10 @@ This Starter includes
 - 🐶 [Lint Staged](https://github.com/okonet/lint-staged) — Run linters against staged git files and don't let 💩 slip into your code base!
 
 The rest of the Starter is based off of the Next.js default starter.
+
+## ⚡️ Quick Start
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/project?template=https://github.com/MikevPeeren/next-typescript-tailwindcss-sass-starter)
 
 ## 🚀 Getting Started
 
