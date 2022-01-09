@@ -8,7 +8,7 @@ This Starter includes
 
 - ⚡️ [Next.js 12](https://nextjs.org/) - The React Framework for Production
 - ⚛️ [React 17](https://reactjs.org/) - A JavaScript library for building user interfaces
-- 🪄 [TailwindCSS v3](https://tailwindcss.com/) - A utility-first CSS framework packed with classes
+- 🧁 [TailwindCSS v3](https://tailwindcss.com/) - A utility-first CSS framework packed with classes
 - ✨ [TypeScript](https://www.typescriptlang.org/) - TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 - 🎉 [Sass](https://sass-lang.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
 - 📏 [ESLint](https://eslint.org/) — Find and fix problems in your JavaScript code.
