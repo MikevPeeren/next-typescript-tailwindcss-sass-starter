@@ -1,6 +1,6 @@
 {
   "name": "next-typescript-tailwindcss-sass-starter",
-  "description": "A Next js typescript tailwindCSS sass starter.",
+  "description": "Use TypeScript, TailwindCSS & Sass to quick start your new Next.js app!!",
   "version": "1.0.0",
   "author": {
     "name": "Mike van Peeren",
