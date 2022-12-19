@@ -17,7 +17,7 @@ export default function RootLayout({
       <head>
         <title>Mike van Peeren</title>
       </head>
-      <body>
+      <body className="bg-black">
         <div className="mx-auto max-w-screen-lg px-6 py-12">
           <div className="col-start-2">
             {/* Here you can place your Navigation */}
