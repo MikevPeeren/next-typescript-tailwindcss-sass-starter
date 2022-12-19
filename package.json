@@ -39,10 +39,10 @@
     "precommit": "lint-staged"
   },
   "lint-staged": {
-    "*.js": [
+    "*.{js,ts}": [
       "eslint --fix"
     ],
-    "*.{html,js}": [
+    "*.{html,js,ts}": [
       "prettier --write"
     ]
   },
