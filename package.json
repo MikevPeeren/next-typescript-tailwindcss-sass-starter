@@ -1,6 +1,34 @@
 {
   "name": "next-typescript-tailwindcss-sass-starter",
-  "private": true,
+  "description": "A Next js typescript tailwindCSS sass tarter.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mike van Peeren",
+    "url": "https://github.com/MikevPeeren"
+  },
+  "license": "MIT",
+  "keywords": [
+    "tailwindcss",
+    "next",
+    "next.js",
+    "starter",
+    "typescript",
+    "prettier",
+    "eslint",
+    "sass",
+    "react",
+    "husky",
+    "postcss",
+    "sass",
+    "nextjs starter",
+    "tailwindcss starter",
+    "nextjs tailwindcss starter",
+    "nextjs-tailwind-starter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MikevPeeren/next-typescript-tailwindcss-sass-starter.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
