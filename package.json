@@ -49,7 +49,7 @@
   "dependencies": {
     "@next/font": "^13.4.16",
     "eslint-plugin-simple-import-sort": "^10.0.0",
-    "next": "^13.4.13",
+    "next": "^13.4.16",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "sass": "^1.65.1"
