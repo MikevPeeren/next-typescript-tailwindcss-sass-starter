@@ -47,7 +47,7 @@
     ]
   },
   "dependencies": {
-    "@next/font": "^13.4.19",
+    "@next/font": "^13.5.1",
     "eslint-plugin-simple-import-sort": "^10.0.0",
     "next": "^13.5.1",
     "react": "^18.2.0",
