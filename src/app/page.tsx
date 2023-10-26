@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="px-2 text-white">
+    <div className="px-2 dark:text-white text-white ">
       <main className="flex min-h-screen flex-1 flex-col items-center justify-center py-2">
         <h1 className="m-0 bg-gradient-to-r from-blue-400 to-indigo-600 bg-clip-text text-center text-8xl font-extrabold text-transparent hover:cursor-pointer">
           Welcome to <a href="https://nextjs.org">Next.js!</a>
@@ -56,23 +56,16 @@ export default function Home() {
         </div>
       </main>
       <footer className="flex h-[100px] w-full items-center justify-center border">
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          className="flex items-center justify-center"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{" "}
-          <span className="ml-2 h-5">
-            <Image
-              className="ml-2"
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              width={72}
-              height={16}
-            />
-          </span>
-        </a>
+        <div className="flex items-center justify-center">
+          <span className="mr-2">Powered by</span>
+          <Image
+            className="ml-2 "
+            src="/vercel-light.svg"
+            alt="Vercel Logo"
+            width={72}
+            height={16}
+          />
+        </div>
       </footer>
     </div>
   );
