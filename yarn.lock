@@ -119,10 +119,10 @@
   dependencies:
     glob "7.1.7"
 
-"@next/font@^13.5.6":
-  version "13.5.6"
-  resolved "https://registry.yarnpkg.com/@next/font/-/font-13.5.6.tgz#2659cfbd9298e21c4ff734bb863d139ef6971cb8"
-  integrity sha512-urmUq05uCVJsBqAAJEV+xK5OTTodrSxdiG+351SOSjlWctywdBM6qX+K9pIe3K48RxjfnxlBbXjGyOJAji+pfw==
+"@next/font@^14.0.0":
+  version "14.0.0"
+  resolved "https://registry.yarnpkg.com/@next/font/-/font-14.0.0.tgz#09b7ad4600717dbf622486c52c30ff3bfbb1f47a"
+  integrity sha512-E6Xg6yPYqOIbPmYkheY5qXjeJlDdwWzspU655QbJn+s0FSKOTS3b/SDKXeZxnyK9f2rTaovGRsU/KOCqZQongw==
 
 "@next/swc-darwin-arm64@13.5.6":
   version "13.5.6"
