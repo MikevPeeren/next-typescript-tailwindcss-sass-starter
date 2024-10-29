@@ -6,8 +6,8 @@ Use TypeScript, TailwindCSS & Sass to quick start your new Next.js app!!
 
 This Starter includes
 
-- ⚡️ [Next.js 14](https://nextjs.org/) - The React Framework for Production
-- ⚛️ [React 18](https://reactjs.org/) - A JavaScript library for building user interfaces
+- ⚡️ [Next.js 15](https://nextjs.org/) - The React Framework for Production
+- ⚛️ [React 19](https://reactjs.org/) - A JavaScript library for building user interfaces
 - 🧁 [TailwindCSS v3](https://tailwindcss.com/) - A utility-first CSS framework packed with classes
 - ✨ [TypeScript](https://www.typescriptlang.org/) - TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 - 🎉 [Sass](https://sass-lang.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.

@@ -55,18 +55,6 @@ export default function Home() {
           </a>
         </div>
       </main>
-      <footer className="flex h-[100px] w-full items-center justify-center border">
-        <div className="flex items-center justify-center">
-          <span className="mr-2">Powered by</span>
-          <Image
-            className="ml-2 "
-            src="/vercel-light.svg"
-            alt="Vercel Logo"
-            width={72}
-            height={16}
-          />
-        </div>
-      </footer>
     </div>
   );
 }
