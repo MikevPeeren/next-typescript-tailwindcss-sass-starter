@@ -8,7 +8,7 @@ This Starter includes
 
 - ⚡️ [Next.js 15](https://nextjs.org/) - The React Framework for Production
 - ⚛️ [React 19](https://reactjs.org/) - A JavaScript library for building user interfaces
-- ⚛️ [Vitest](https://vitest.dev/) - Vitest Next Generation Testing Framework
+- 🧪 [Vitest](https://vitest.dev/) - Vitest Next Generation Testing Framework
 - 🧁 [TailwindCSS v3](https://tailwindcss.com/) - A utility-first CSS framework packed with classes
 - ✨ [TypeScript](https://www.typescriptlang.org/) - TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 - 🎉 [Sass](https://sass-lang.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
@@ -16,6 +16,7 @@ This Starter includes
 - 🦋 [Prettier](https://prettier.io/) — An opinionated code formatter.
 - 🐶 [Husky](https://github.com/typicode/husky) - Husky improves your commits and more 🐶 woof!
 - 🐶 [Lint Staged](https://github.com/okonet/lint-staged) — Run linters against staged git files and don't let 💩 slip into your code base!
+- 🔎 [Bundle Analyzer](https://www.npmjs.com/package/@next/bundle-analyzer) — Analyze your project to see what bundles are too big!
 
 The rest of the Starter is based off of the Next.js default starter.
 
