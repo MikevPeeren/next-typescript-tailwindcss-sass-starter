@@ -58,7 +58,7 @@
   "devDependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/react": "^16.0.1",
-    "@types/node": "^22.9.0",
+    "@types/node": "^22.9.1",
     "@types/react": "^18.3.12",
     "@vitejs/plugin-react": "^4.3.3",
     "autoprefixer": "^10.4.20",
