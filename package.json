@@ -52,7 +52,7 @@
     "eslint-plugin-simple-import-sort": "^12.1.1",
     "next": "^15.0.4",
     "react": "^19.0.0-rc.1",
-    "react-dom": "^19.0.0-rc.0",
+    "react-dom": "^19.0.0",
     "sass": "^1.82.0"
   },
   "devDependencies": {
