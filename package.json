@@ -59,7 +59,7 @@
     "@testing-library/dom": "^10.4.0",
     "@testing-library/react": "^16.2.0",
     "@types/node": "^22.10.9",
-    "@types/react": "^19.0.7",
+    "@types/react": "^19.0.8",
     "@vitejs/plugin-react": "^4.3.4",
     "autoprefixer": "^10.4.20",
     "eslint": "9.18.0",
