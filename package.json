@@ -64,7 +64,7 @@
     "autoprefixer": "^10.4.21",
     "eslint": "9.24.0",
     "eslint-config-next": "^15.3.0",
-    "eslint-config-prettier": "^10.1.1",
+    "eslint-config-prettier": "^10.1.2",
     "husky": "^9.1.7",
     "jsdom": "^26.0.0",
     "lint-staged": "^15.5.0",
