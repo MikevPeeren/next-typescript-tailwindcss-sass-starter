@@ -48,7 +48,7 @@
     ]
   },
   "dependencies": {
-    "@next/bundle-analyzer": "^15.4.5",
+    "@next/bundle-analyzer": "^15.4.6",
     "eslint-plugin-simple-import-sort": "^12.1.1",
     "next": "^15.4.5",
     "react": "^19.1.1",
