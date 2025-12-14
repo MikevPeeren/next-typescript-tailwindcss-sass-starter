@@ -24,8 +24,8 @@ This starter provides:
 
 ## 🧰 Tech Stack
 
-- ⚡️ [Next.js 15.2](https://nextjs.org/) - React framework with App Router
-- ⚛️ [React 19.1](https://reactjs.org/) - JavaScript library for building user interfaces
+- ⚡️ [Next.js 16.x](https://nextjs.org/) - React framework with App Router
+- ⚛️ [React 19.x](https://reactjs.org/) - JavaScript library for building user interfaces
 - 🧪 [Vitest 3.0](https://vitest.dev/) - Next generation testing framework
 - 🧁 [TailwindCSS v4.0](https://tailwindcss.com/) - Utility-first CSS framework
 - ✨ [TypeScript 5.8](https://www.typescriptlang.org/) - Strongly typed programming language
